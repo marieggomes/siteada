@@ -1,5 +1,5 @@
 <h1 align="center"> Mulheres que fizeram história na tecnologia </h1> 
-<h2> Sobre </h2> <br>
+<h2> Sobre </h2>
 <p>Projeto de página web desenvolvido durante o Curso Online Eu ProgrAmo | Turma 01 - PrograMaria, foram utilizados conceitos básicos de HTML, CSS, 
   Javascript e lógica de programação. <br> 
    O site conta uma breve história da Ada Lovelace, onde podemos navegar pela infância, juventude e vida adulta dela. Na página temos uma lista
